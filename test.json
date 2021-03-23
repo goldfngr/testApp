@@ -1,0 +1,22 @@
+"flow": {
+    "obj1": {
+        "num1":15,
+        "num2":5,
+        "operation":"plus"
+    },
+    "obj2": {
+        "num1":44,
+        "num2":87,
+        "operation":"minus"
+    }, 
+    "obj3": {
+        "num1":35,
+        "num2":59,
+        "operation":"times"
+    },
+    "obj4": {
+        "num1":66,
+        "num2":8,
+        "operation":"divid"
+    }
+};
